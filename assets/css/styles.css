@@ -12,6 +12,6 @@ img {
     text-align: center; height: 300px; width: 350px;
 }
 
-#p2 {
-    border: 20px rounded blue groove; font-size: 50px;
+#para2 {
+    font-size: 80px; border: 10px solid; padding: 20px;
 }
