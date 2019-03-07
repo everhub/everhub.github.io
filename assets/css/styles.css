@@ -18,3 +18,9 @@ img {
 .p3 {
     font-size:80px; border: 10px solid; padding: 20px;
 }
+.ul2{
+    list-style: none;
+    border: 0px;
+    padding: 0px
+    
+}
