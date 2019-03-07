@@ -19,8 +19,10 @@ img {
     font-size:80px; border: 10px solid; padding: 20px;
 }
 .ul2{
-    list-style: none;
+    list-style-type: none;
     border: 0px;
     padding: 0px
+    font-size: 45px;
+    display: inline;
     
 }
