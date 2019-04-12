@@ -31,11 +31,12 @@ img {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: darkblue;
+    background-color: white;
   }
   
   .li3 {
     float: left;
+    background-color: white
   }
   
   li a {
@@ -44,10 +45,10 @@ img {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    background-color: darkblue
+    background-color: white
   }
   
 
   li a:hover {
-    background-color: #000000;
+    background-color:black;
   }
